@@ -1,5 +1,5 @@
 const countDownDate = new Date(
-    "oct 14,2024 00:00:00").getTime();
+    "aug 19,2024 00:00:00").getTime();
     const x = setInterval(
         function(){
 const now = new Date().getTime();
