@@ -15,8 +15,10 @@ background-position: center;
 background-size: cover;
 padding: 0 8%;
 }
+/* this logo width was formally 120px
+changed it recently  */
 .logo{
-width:120px;
+width:150px;
 padding: 20px 0;
 cursor: pointer;
 
