@@ -4,10 +4,14 @@
   font-family:'poppins', sans-serif;
 box-sizing: border-box;
 }
+
+body{
+  overflow-x: hidden;
+  }
 .container{
 width: 100vw;
 height: 100vh;
-background-image: url(img/crazy.jpg);
+background-image: url(img/lobo.jpg);
 background-position: center;
 background-size: cover;
 padding: 0 8%;
