@@ -10,7 +10,7 @@ box-sizing: border-box;
 .container{
 width: 100vw;
 height: 100vh;
-background-image: url(img/lobo.jpg);
+background-image: url(img/kaka\ x2.jpg);
 background-position: center;
 background-size: cover;
 padding: 0 8%;
@@ -83,6 +83,11 @@ margin-bottom:-12px;
     position: absolute;
     animation: rocket 4s linear infinite;
   
+  }
+  button a {
+text-decoration: none;
+color: aliceblue;
+
   }
   @keyframes rocket{
 0%{
